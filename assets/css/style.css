@@ -74,7 +74,7 @@ main {
 
 .hero-section {
     background: #476930;
-    background-image: url("../Images/website-screenshot.png"), linear-gradient(180deg, lightblue 0%, lightblue 100%);
+    background-image: url("../images/website-screenshot.png"), linear-gradient(180deg, lightblue 0%, lightblue 100%);
     background-size:cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -211,10 +211,10 @@ a:visited {
 }
 
 .game{
-    background-image: url("../Images/website-screenshot.png");
+    background-image: url("../images/website-screenshot.png");
 }
 .project{
-    background-image: url("../Images/here-have-a-yoshi.png");
+    background-image: url("../images/here-have-a-yoshi.png");
 }
  @media screen and (max-width:600px) { 
      .main-card {
